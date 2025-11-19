@@ -1,8 +1,8 @@
 body {
     font-family: arial, sans-serif;
     margin: 40px;
-    background-color: rgb(229, 207, 179);
-    color: rgb(6, 47, 63);
+    background-color: rgb(219, 187, 146);
+    color: rgb(46, 25, 1);
 } 
 .header{
     text-align: center;
@@ -10,7 +10,7 @@ body {
 }
 
 .profile{
-    width: 180px;
+    width: 250px;
     border-radius: 50%;
 }
 
@@ -19,7 +19,7 @@ body {
 }
 
 .section {
-    background-color: aliceblue;
+    background-color: rgb(246, 247, 216);
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 8px;
